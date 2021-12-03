@@ -16,7 +16,7 @@
 	
 	<form class="p-3" action="/search">
 		<input type="text" name="artist">
-		<input class="btn btn-success btn-sm" type="submit" value="Search Artists" name="artist">
+		<button class="btn btn-success btn-sm" type="submit">Search Artists</button>
 	</form>
 	
 	<table class="table border border-dark table-striped table-hover m-auto w-50 p-3">
